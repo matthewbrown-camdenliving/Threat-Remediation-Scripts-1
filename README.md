@@ -94,3 +94,4 @@ The following library contains a list of common unwanted software/adware that ar
 > If you would like to contribute by providing your own remediation script, it would be greatly appreciated.  Any help in keeping the public safe is highly valued.  Please ensure that the code is clear and concise to ensure a smooth review and validation process.  Submissions can be sent as an [issue](https://github.com/xephora/Threat-Remediation-Scripts/issues).  The owner's name will be associated with the remediation script.
 
 > Any issues with a script, please feel free to report it as an [issue](https://github.com/xephora/Threat-Remediation-Scripts/issues).
+# Threat-Remediation-Scripts
